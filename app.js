@@ -235,8 +235,8 @@ function submitClicked() {
 function loadRandomBias() {
   var bias = randomBias();
   document.getElementById("bias-name").innerHTML = escapeHtml(bias[0]);
-  document.getElementById("bias-wikilink").href = bias[1];
   document.getElementById("bias-content").innerHTML = escapeHtml(bias[2]);
+  document.getElementById("bias-wikilink").href = bias[1];
 }
 
 loadRandomBias();
