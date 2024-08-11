@@ -40,7 +40,7 @@ function randomFarnFact() {
 ["Vertreter der Farn-Familien Cyatheaceae und Dicksoniaceae bilden einen sogenannten Scheinstamm aus und ähneln daher Bäumen.", ""],
 ["Durch ihre unterschiedlichen Wuchsformen besiedeln Farne weltweit unterschiedliche Lebensräume, wobei sie eher feuchte Standorte bevorzugen.", ""],
 ["Ihren Verbreitungsschwerpunkt, sowie die größte Artenvielfalt weisen Vertreter der Farne in Orientalis, Mittelamerika und dem nördlichen Südamerika auf.", ""],
-["Viele Farnpflanzen bevorzugen schattige Plätzen im Wald, in Mauerritzen, Felsspalten und Schluchten oder in der Nähe von Gewässern, es gibt aber auch lichtliebende Arten.", ""],
+["Viele Farnpflanzen bevorzugen schattige Plätze im Wald, in Mauerritzen, Felsspalten und Schluchten oder in der Nähe von Gewässern, es gibt aber auch lichtliebende Arten.", ""],
 ["Manche Farne werden als Zierpflanzen genutzt, da sie winterhart sind und auch an schattigen Standorten gedeihen.", ""],
 ["Junger Adlerfarn und Straußenfarn werden trotz ihrer Giftigkeit regional als Salat oder Wildgemüse gegessen.", ""],
 ["In der chinesischen Küche und der japanischen Küche sind unterschiedliche Arten von Farn bereits seit rund 3000 Jahren anzutreffen.", ""],
